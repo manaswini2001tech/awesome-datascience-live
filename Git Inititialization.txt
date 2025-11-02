@@ -21,4 +21,4 @@ git add .
 git remote add origin https://github.com/manaswini2001tech/awesome-datascience-live.git
 git push -u origin main
 
-Note: Go to folder same name as repository: root folder following src etc.
+Note: Go to root folder as repository: root folder following src etc.
